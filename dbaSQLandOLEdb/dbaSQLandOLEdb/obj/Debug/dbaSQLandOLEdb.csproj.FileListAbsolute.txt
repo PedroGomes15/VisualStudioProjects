@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\bin\Debug\dbaSQLandOLEdb.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\bin\Debug\dbaSQLandOLEdb.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\bin\Debug\dbaSQLandOLEdb.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\dbaSQLandOLEdb\dbaSQLandOLEdb\obj\Debug\dbaSQLandOLEdb.pdb

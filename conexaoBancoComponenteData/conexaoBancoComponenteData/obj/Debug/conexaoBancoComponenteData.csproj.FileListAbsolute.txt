@@ -1,0 +1,11 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\bin\Debug\Banco_aula.mdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\bin\Debug\conexaoBancoComponenteData.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\bin\Debug\conexaoBancoComponenteData.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\bin\Debug\conexaoBancoComponenteData.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\conexaoBancoComponenteData\conexaoBancoComponenteData\obj\Debug\conexaoBancoComponenteData.pdb

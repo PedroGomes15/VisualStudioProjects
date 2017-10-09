@@ -1,0 +1,7 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\bin\Debug\banco_de_dados.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\bin\Debug\banco_de_dados.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\bin\Debug\banco_de_dados.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\obj\Debug\banco_de_dados.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\obj\Debug\banco_de_dados.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\obj\Debug\banco_de_dados.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\banco_de_dados\banco_de_dados\obj\Debug\banco_de_dados.pdb

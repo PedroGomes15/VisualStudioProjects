@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\bin\Debug\db_sql_pokemon_forms.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\bin\Debug\db_sql_pokemon_forms.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\bin\Debug\db_sql_pokemon_forms.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\db_sql_pokemon_forms\db_sql_pokemon_forms\obj\Debug\db_sql_pokemon_forms.pdb

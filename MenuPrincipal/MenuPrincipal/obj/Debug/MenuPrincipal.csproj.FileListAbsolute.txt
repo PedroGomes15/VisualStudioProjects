@@ -1,0 +1,15 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\bin\Debug\MenuPrincipal.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Menu.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.DataEHora.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Form2.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Manipula.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Mascaras.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\MenuPrincipal\MenuPrincipal\obj\Debug\MenuPrincipal.Funcoes_Matematicas.resources

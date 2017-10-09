@@ -1,0 +1,11 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\bin\Debug\Banco_aula.mdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\bin\Debug\WizardConexaodata.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\bin\Debug\WizardConexaodata.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\bin\Debug\WizardConexaodata.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\WizardConexaodata\WizardConexaodata\obj\Debug\WizardConexaodata.pdb

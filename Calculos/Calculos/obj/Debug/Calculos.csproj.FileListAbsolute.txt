@@ -1,0 +1,9 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\bin\Debug\Calculos.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\bin\Debug\Calculos.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\bin\Debug\Calculos.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\obj\Debug\Calculos.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\obj\Debug\Calculos.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\obj\Debug\Calculos.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\obj\Debug\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\obj\Debug\Calculos.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Calculos\Calculos\obj\Debug\Calculos.pdb

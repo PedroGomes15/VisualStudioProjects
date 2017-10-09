@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\bin\Debug\CalcComMetodosTratamentos.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\bin\Debug\CalcComMetodosTratamentos.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\bin\Debug\CalcComMetodosTratamentos.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CalcComMetodosTratamentos\CalcComMetodosTratamentos\obj\Debug\CalcComMetodosTratamentos.pdb

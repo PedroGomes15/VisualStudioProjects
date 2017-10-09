@@ -1,0 +1,9 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\bin\Debug\ConexaoSqlServerSqlClientForms.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\bin\Debug\ConexaoSqlServerSqlClientForms.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\bin\Debug\ConexaoSqlServerSqlClientForms.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\obj\Debug\ConexaoSqlServerSqlClientForms.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\obj\Debug\ConexaoSqlServerSqlClientForms.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\obj\Debug\ConexaoSqlServerSqlClientForms.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\obj\Debug\ConexaoSqlServerSqlClientForms.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\obj\Debug\ConexaoSqlServerSqlClientForms.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ConexaoSqlServerSqlClientForms\ConexaoSqlServerSqlClientForms\obj\Debug\ConexaoSqlServerSqlClientForms.pdb

@@ -1,0 +1,9 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\bin\Debug\Mensagem.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\bin\Debug\Mensagem.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\bin\Debug\Mensagem.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\obj\Debug\Mensagem.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\obj\Debug\Mensagem.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\obj\Debug\Mensagem.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\obj\Debug\Mensagem.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\obj\Debug\Mensagem.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Mensagem\Mensagem\obj\Debug\Mensagem.pdb

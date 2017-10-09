@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\bin\Debug\CRUD3camadasFormsSQLServer.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\bin\Debug\CRUD3camadasFormsSQLServer.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\bin\Debug\CRUD3camadasFormsSQLServer.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\CRUD3camadasFormsSQLServer\CRUD3camadasFormsSQLServer\obj\Debug\CRUD3camadasFormsSQLServer.Properties.Resources.resources

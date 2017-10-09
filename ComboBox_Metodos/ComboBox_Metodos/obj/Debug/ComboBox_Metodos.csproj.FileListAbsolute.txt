@@ -1,0 +1,9 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\bin\Debug\ComboBox_Metodos.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\bin\Debug\ComboBox_Metodos.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\bin\Debug\ComboBox_Metodos.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\obj\Debug\ComboBox_Metodos.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\obj\Debug\ComboBox_Metodos.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\obj\Debug\ComboBox_Metodos.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\obj\Debug\ComboBox_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\obj\Debug\ComboBox_Metodos.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ComboBox_Metodos\ComboBox_Metodos\obj\Debug\ComboBox_Metodos.pdb

@@ -1,0 +1,7 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\bin\Debug\GetSetDiferente.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\bin\Debug\GetSetDiferente.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\bin\Debug\GetSetDiferente.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\obj\Debug\GetSetDiferente.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\obj\Debug\GetSetDiferente.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\obj\Debug\GetSetDiferente.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\GetSetDiferente\GetSetDiferente\obj\Debug\GetSetDiferente.pdb

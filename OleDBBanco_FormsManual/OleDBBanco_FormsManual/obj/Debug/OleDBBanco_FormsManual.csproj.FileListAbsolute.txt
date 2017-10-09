@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\bin\Debug\OleDBBanco_FormsManual.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\bin\Debug\OleDBBanco_FormsManual.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\bin\Debug\OleDBBanco_FormsManual.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\OleDBBanco_FormsManual\OleDBBanco_FormsManual\obj\Debug\OleDBBanco_FormsManual.pdb

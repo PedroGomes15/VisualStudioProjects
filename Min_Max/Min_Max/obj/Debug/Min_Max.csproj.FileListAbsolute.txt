@@ -1,0 +1,6 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Min_Max\Min_Max\bin\Debug\Min_Max.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Min_Max\Min_Max\bin\Debug\Min_Max.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Min_Max\Min_Max\bin\Debug\Min_Max.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Min_Max\Min_Max\obj\Debug\Min_Max.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Min_Max\Min_Max\obj\Debug\Min_Max.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Min_Max\Min_Max\obj\Debug\Min_Max.pdb

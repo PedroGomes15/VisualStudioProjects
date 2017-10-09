@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\bin\Debug\Primeiro_Forms.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\bin\Debug\Primeiro_Forms.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\bin\Debug\Primeiro_Forms.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Primeiro_Forms\Primeiro_Forms\obj\Debug\Primeiro_Forms.pdb

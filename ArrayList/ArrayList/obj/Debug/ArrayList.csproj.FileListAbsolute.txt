@@ -1,0 +1,7 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.pdb

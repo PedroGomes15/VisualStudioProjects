@@ -1,0 +1,10 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\bin\Debug\1_Evento.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\bin\Debug\1_Evento.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\bin\Debug\1_Evento.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\1_Evento.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\_1_Evento.Form1.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\_1_Evento.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\1_Evento.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\1_Evento.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\1_Evento.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\1_Evento\1_Evento\obj\Debug\1_Evento.pdb

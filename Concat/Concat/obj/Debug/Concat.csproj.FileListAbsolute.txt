@@ -1,0 +1,7 @@
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\bin\Debug\Concat.exe.config
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\bin\Debug\Concat.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\bin\Debug\Concat.pdb
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\obj\Debug\Concat.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\obj\Debug\Concat.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\obj\Debug\Concat.exe
+C:\Users\pedro\Documents\Visual Studio 2017\Projects\Concat\Concat\obj\Debug\Concat.pdb

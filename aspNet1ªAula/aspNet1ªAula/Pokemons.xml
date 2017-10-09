@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <AlternateText>Pikachu</AlternateText>
+    <ImageUrl>Imagens\001.JPG</ImageUrl>
+    <NavigateUrl>https://www.pokemon.com/br/pokedex/pikachu</NavigateUrl>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <AlternateText>Gengar</AlternateText>
+    <ImageUrl>Imagens\gengar.jpg</ImageUrl>
+    <NavigateUrl>https://www.pokemon.com/br/pokedex/gengar</NavigateUrl>
+    <Impressions>400</Impressions>
+  </Ad>  
+  <Ad>
+    <AlternateText>Charizard</AlternateText>
+    <ImageUrl>Imagens\Charizard.jpg</ImageUrl>
+    <NavigateUrl>https://www.pokemon.com/br/pokedex/charizard</NavigateUrl>
+    <Impressions>200</Impressions>
+  </Ad> 
+</Advertisements>
